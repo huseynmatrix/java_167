@@ -22,4 +22,8 @@ public class PaymentService {
     public void paymentByGultac() {
         System.out.println("Gultac");
     }
+
+    public void paymentByGulay() {
+        System.out.println("Gulay");
+    }
 }
