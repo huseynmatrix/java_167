@@ -18,4 +18,8 @@ public class PaymentService {
     public void paymentByTural() {
         System.out.println("Tural");
     }
+
+    public void paymentByGultac() {
+        System.out.println("Gultac");
+    }
 }
