@@ -14,4 +14,8 @@ public class PaymentService {
     public String pay4() {
         return "Successfully for feature_4";
     }
+
+    public void paymentByTural() {
+        System.out.println("Tural");
+    }
 }
